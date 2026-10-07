@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Rohban Tariq 👋
 
-<!--
-**rohbantariq/rohbantariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Focus:** Computer Science Student
+- 💻 **Languages & DBs:** Java | Python | C/C++ | PostgreSQL | SQL Server
+- 🐧 **Currently Learning:** Operating Systems Concepts & Linux Environment
+- 🎨 **UI/UX Design:** Figma
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects & Collaborations
+
+- **Hotel Management System With Database**
+  - Full-fledged system for managing room bookings, customer records, and billing with database integration.
+  - *Tech:* SQL Server / PostgreSQL, Java, OOP
+
+- **Password Strength Validator**
+  - Security tool designed to evaluate password strength using security rules and validation criteria.
+  - *Tech:* Python / Java, Regex, Validation Logic
+
+- **Multi-Store Management System**
+  - Scalable application for managing multi-store inventory, sales tracking, and role-based permissions.
+  - *Tech:* Java, SQL Server, System Design
+
+- **Disaster Relief Engine Core**
+  - Core logic and system implementation for emergency response coordination and resource distribution.
+  - *Tech:* C++ / Java, Data Structures & Algorithms
+
+- **Zenit – E-Commerce UX/UI Design**
+  - E-commerce brand UI/UX design and interactive prototype for sports equipment.
+  - *Tech:* Figma, Wireframing, Responsive Design
+
+---
+
+### 🤝 Collaborative Repositories
+
+Check out projects I've worked on with my collaborators:
+- Projects with [@danishtalpur](https://github.com/danishtalpur)
+- Projects with [@naushabaasif](https://github.com/naushabaasif)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:** `Java` `Python` `C/C++` `SQL`  
+**Databases:** `PostgreSQL` `SQL Server`  
+**OS & Tools:** `Linux` `VS Code` `SSMS` `Git`  
+**Design:** `Figma`
